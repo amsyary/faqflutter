@@ -1,7 +1,7 @@
 name: faqflutter
-description: A new Flutter package project.
+description: faq flutter widget
 version: 0.0.1
-homepage:
+homepage: https://github.com/amsyary/faqflutter
 
 environment:
   sdk: ">=2.17.6 <3.0.0"
